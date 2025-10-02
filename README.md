@@ -10,13 +10,14 @@ This repository hosts a machine learning project dedicated to classifying variou
 This project addresses a critical need in modern waste management by providing a scalable solution for material identification, improving recycling efficiency, and reducing contamination.
 
 # Key Features
-Multi-Class Classification: Implementation and evaluation of models for classifying 6+ distinct waste categories.
 
-Algorithm Comparison: Benchmarking performance across several classifiers, potentially including VGG16, ResNet (Deep Learning), Random Forest, and Support Vector Machines (SVM).
+-Multi-Class Classification: Implementation and evaluation of models for classifying 6+ distinct waste categories.
 
-Data Augmentation: Scripts for preprocessing and expanding the image dataset to improve model generalization.
+-Algorithm Comparison: Benchmarking performance across several classifiers, potentially including VGG16, ResNet (Deep Learning), Random Forest, and Support Vector Machines (SVM).
 
-Performance Metrics: Detailed reporting on accuracy, precision, recall, F1-score, and confusion matrices.
+-Data Augmentation: Scripts for preprocessing and expanding the image dataset to improve model generalization.
 
-Deployment Potential: Final model exports optimized for integration into external applications or hardware (e.g., smart bins or conveyor belt systems).
+-Performance Metrics: Detailed reporting on accuracy, precision, recall, F1-score, and confusion matrices.
+
+-Deployment Potential: Final model exports optimized for integration into external applications or hardware (e.g., smart bins or conveyor belt systems).
 
