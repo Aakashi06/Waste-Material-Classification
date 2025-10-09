@@ -6,7 +6,7 @@ This project develops an image-based Waste Material Classification system using 
 
 Project Overview
 
-This repository hosts a machine learning project dedicated to classifying various waste materials (e.g., cardboard, glass, metal, organic, plastic, paper) from images. The goal is to develop and compare different classification algorithms—including both traditional ML and deep learning approaches—to create an accurate system that can aid in automated sorting and recycling processes.
+This repository hosts a machine learning project dedicated to classifying various waste materials (e.g., cardboard, glass, metal, organic, plastic, paper) from images. The goal is to develop and compare different classification algorithms—including both traditional ML create an accurate system that can aid in automated sorting and recycling processes.
 
 This project addresses a critical need in modern waste management by providing a scalable solution for material identification, improving recycling efficiency, and reducing contamination.
 
