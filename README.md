@@ -10,6 +10,8 @@ This repository hosts a machine learning project dedicated to classifying variou
 
 This project addresses a critical need in modern waste management by providing a scalable solution for material identification, improving recycling efficiency, and reducing contamination.
 
+# Tech Stack
+
 # Key Features
 
 -Multi-Class Classification: Implementation and evaluation of models for classifying 6+ distinct waste categories.
